@@ -8,7 +8,7 @@ A personal recreation of the classic Arkanoid game, built using a bare bones C++
 # 🖥️ How to playtest
 A built version has been included in this repository for the lazybones and risque alike, but - below are some building instructions if you're neither!
 
-**N.B.** To exit the game, just press 'Esc' on your keyboard.
+**N.B.** To exit the game, just press 'Esc' on your keyboard. Also, the ball speed acceleration is a feature ;)
 # ⚙️ How to build
 **Visual Studio**
 1. Create a project -> Empty C++ Project
